@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onFocusChange",
+    "scm.alwaysShowRepositories": true,
+    "extensions.closeExtensionDetailsOnViewChange": true
+}
